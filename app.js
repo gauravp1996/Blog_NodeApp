@@ -96,5 +96,5 @@ app.get("/posts/:postId",(req,res)=>{
 
 
 app.listen(3000, function() {
-  console.log("SERVER SUCKING NOW");
+  console.log("SERVER RUNNING ON LOCALHOST 3000");
 });
